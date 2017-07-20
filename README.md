@@ -15,3 +15,4 @@ Implementation :
 2. Not implimented recursive function as it may lead to stack overflow if the number is huge
 3. The code is implimented in terms of functions as it will easy to implent other functions 
 4. fab which calucaltes fab series and is_prime finds the prime number 
+5. Any Floating point number is type casted 
